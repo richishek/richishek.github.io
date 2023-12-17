@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richi Technology blog</title>
-    <link>http://richishek.github.io/</link>
+    <link>https://richishek.github.io/</link>
     <description>Recent content on Richi Technology blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2023 06:42:49 +0000</lastBuildDate><atom:link href="http://richishek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Dec 2023 06:42:49 +0000</lastBuildDate><atom:link href="https://richishek.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PowerToys: Enhancing Your Windows Experience</title>
-      <link>http://richishek.github.io/post/powertoys-info/</link>
+      <link>https://richishek.github.io/post/powertoys-info/</link>
       <pubDate>Sun, 17 Dec 2023 06:42:49 +0000</pubDate>
       
-      <guid>http://richishek.github.io/post/powertoys-info/</guid>
+      <guid>https://richishek.github.io/post/powertoys-info/</guid>
       <description>Introduction In the world of software and technology, there are always new tools and utilities being developed to make our lives easier. One such collection of utilities that has gained popularity among Windows users is PowerToys. If you&amp;rsquo;re wondering what PowerToys are and how they can benefit you, then you&amp;rsquo;ve come to the right place. In this article, we&amp;rsquo;ll explore what PowerToys are and how they can enhance your Windows experience.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://richishek.github.io/about/</link>
+      <link>https://richishek.github.io/about/</link>
       <pubDate>Sun, 17 Dec 2023 06:24:57 +0000</pubDate>
       
-      <guid>http://richishek.github.io/about/</guid>
+      <guid>https://richishek.github.io/about/</guid>
       <description>Welcome to Richi&amp;rsquo;s Tech Blog! Hey there, tech enthusiasts! It&amp;rsquo;s Richi, your friendly neighborhood programmer, coming to you from the vibrant city of Hong Kong. In this blog, I&amp;rsquo;ll be sharing some valuable insights into technology software, useful products, and easy-to-follow tutorials. Whether you&amp;rsquo;re a beginner or a seasoned pro, there&amp;rsquo;s something here for everyone. So, let&amp;rsquo;s dive right in!
 Exploring the World of Technology Technology is constantly evolving, and staying up-to-date with the latest software and products can be a daunting task.</description>
     </item>
     
     <item>
       <title>Simplifying Technology: Useful Software and Tutorials</title>
-      <link>http://richishek.github.io/post/about-me/</link>
+      <link>https://richishek.github.io/post/about-me/</link>
       <pubDate>Sun, 17 Dec 2023 06:24:57 +0000</pubDate>
       
-      <guid>http://richishek.github.io/post/about-me/</guid>
+      <guid>https://richishek.github.io/post/about-me/</guid>
       <description>Welcome to Richi&amp;rsquo;s Tech Blog! Hey there, tech enthusiasts! It&amp;rsquo;s Richi, your friendly neighborhood programmer, coming to you from the vibrant city of Hong Kong. In this blog, I&amp;rsquo;ll be sharing some valuable insights into technology software, useful products, and easy-to-follow tutorials. Whether you&amp;rsquo;re a beginner or a seasoned pro, there&amp;rsquo;s something here for everyone. So, let&amp;rsquo;s dive right in!
 Exploring the World of Technology Technology is constantly evolving, and staying up-to-date with the latest software and products can be a daunting task.</description>
     </item>
